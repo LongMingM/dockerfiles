@@ -1,0 +1,5 @@
+/test-docker/*.dockerignore
+/test-docker/*.js
+/test-docker/*.yml
+/test-docker/*.json
+/test-docker/*.md
