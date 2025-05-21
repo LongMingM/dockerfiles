@@ -1,0 +1,1 @@
+docker run --gpus all --rm -it -v .:/app --name test imageclass:latest /bin/bash
