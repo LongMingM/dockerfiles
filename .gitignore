@@ -1,5 +1,5 @@
-/test-docker/*.dockerignore
-/test-docker/*.js
-/test-docker/*.yml
-/test-docker/*.json
-/test-docker/*.md
+# 忽略所有文件
+*
+
+# 除非被明确添加到暂存区
+!.gitignore
